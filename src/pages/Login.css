@@ -1,0 +1,89 @@
+.Login{
+	width: 100%;
+	height: 100%;
+	background: #018d68;
+	position: relative;
+}
+
+.Form{
+	width: 90%;
+	height: 18%;
+	background: #fff;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 3%;
+	margin: auto;
+	border-radius: 7px;
+}
+
+.Form div{
+	width: 100%;
+	height: 50%;
+}
+
+.Form input{
+	width: 80%;
+	height: 100%;
+	border: none;
+	margin-left: 8%;
+}
+
+.Form .password{
+	border-top: 1px solid #ddd;
+	box-sizing: border-box;
+}
+
+.Form .password i{
+	color: #bbb;
+}
+
+.Form .password .glyphicon-eye-open{
+	color: #45e3be;
+}
+
+.Form .login{
+	width: 100%;
+	height: 50%;
+	border: none;
+	background: #0ac599;
+	border-radius: 7px;
+	color: #fff;
+	font-size: 130%;
+	margin: 5% 0;
+}
+
+.Button{
+	width: 90%;
+	height: 40%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 36%;
+	margin: auto;
+}
+
+.Button .register{
+	width: 100%;
+	height: 22%;
+	border: none;
+	background: #0ac599;
+	border-radius: 7px;
+	color: #fff;
+	font-size: 130%;
+}
+
+.Button .register{
+	background: #018c6c;
+	border: 1px solid #45e3be;
+	color: #45e3be;
+}
+
+.Button p{
+	color: #45e3be;
+	margin-top: 4%;
+}
+
+.name{
+	color: red;
+}

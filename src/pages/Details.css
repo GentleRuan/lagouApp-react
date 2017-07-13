@@ -1,0 +1,118 @@
+.Details{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.JobText{
+	width: 100%;
+	height: 120%;
+	overflow: hidden;
+}
+
+.JobText .one{
+	width: 100%;
+	height: 16%;
+	border-bottom: 1px solid #ddd;
+}
+
+.JobText .one div{
+	width: 100%;
+	height: 70%;
+}
+
+.JobText .one div span{
+	width: 33.3%;
+	height: 50%;
+	float: left;
+	text-align: center;
+	line-height: 294%;
+}
+
+.JobText .one div span i{
+	color: #0ac599;
+}
+
+.JobText .one p{
+	text-align: center;
+	color: #aaa;
+}
+
+.JobText .two{
+	width: 100%;
+	height: 11%;
+	border-bottom: 1px solid #ddd;
+	padding-top: 4%;
+	padding-left: 4%;
+}
+
+.JobText .two img{
+	width: 16%;
+	height: 70%;
+	float: left;
+	margin-right: 4%;
+}
+
+.JobText .two div span{
+	color: #00b38a;
+	font-size: 140%;
+}
+
+.JobText .two div p{
+	color: #aaa;
+}
+
+.JobText .three{
+	width: 100%;
+	height: 52%;
+}
+
+.JobText .three .f{
+	width: 100%;
+	height: 10%;
+	background: #d2f9f0;
+	padding-left: 4%;
+	padding-top: 2.5%;
+	color: #00b38a;
+}
+
+.JobText .three .r,.three .i{
+	width: 100%;
+	padding-left: 4%;
+	padding-top: 2.5%;
+	font-size: 90%;
+	color: #666;
+}
+
+.JobText .four{
+	width: 100%;
+	height: 56%;
+}
+
+.JobText .four .f{
+	width: 100%;
+	height: 10%;
+	background: #d2f9f0;
+	padding-left: 4%;
+	padding-top: 3%;
+	color: #00b38a;
+}
+
+.JobText .four p{
+	padding-left: 4%;
+	padding-top: 4%;
+}
+
+
+.footer{
+	width: 100%;
+	height: 7%;
+	background: #00b38a;
+	color: #fff;
+	text-align: center;
+	line-height: 254%;
+	font-size: 120%;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
